@@ -28,8 +28,14 @@
 
         <dependency>
             <groupId>dev.langchain4j</groupId>
-            <artifactId>langchain4j-embeddings-bge-small-en-v15</artifactId>
+            <artifactId>langchain4j-easy-rag</artifactId>
             <version>1.23.0-beta33</version>
+            <exclusions>
+                <exclusion>
+                    <groupId>dev.langchain4j</groupId>
+                    <artifactId>langchain4j-embeddings-bge-small-en-v15-q</artifactId>
+                </exclusion>
+            </exclusions>
         </dependency>
     </dependencies>
 </project>
