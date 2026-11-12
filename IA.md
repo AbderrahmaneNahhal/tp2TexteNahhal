@@ -14,7 +14,7 @@
 
 
 
-\*\*Prompt utilisé, reformulé en français :\*\* « Pourquoi Java ne trouve-t-il toujours pas le package `dev.langchain4j.model.embedding.onnx.bgesmallenv15` ? Quelle dépendance Maven dois-je ajouter pour que `BgeSmallEnV15EmbeddingModel` soit disponible ? »
+\*\*Prompt utilisé:\*\* « Pourquoi Java ne trouve-t-il toujours pas le package `dev.langchain4j.model.embedding.onnx.bgesmallenv15` ? Quelle dépendance Maven dois-je ajouter pour que `BgeSmallEnV15EmbeddingModel` soit disponible ? »
 
 
 
